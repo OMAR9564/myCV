@@ -1,0 +1,68 @@
+.connect-logos {
+  --z-index: 5;
+  background-color: transparent;
+  height: 182px;
+  left: 22px;
+  opacity: 1;
+  position: absolute;
+  top: 483px;
+  width: 32px;
+}
+.icons8-instagram-250 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(https://cdn.animaapp.com/projects/6375aeefa58c130e510f9d56/releases/6375af7a737d3a28a103146a/img/icons8-instagram-250-1@2x.png);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 51px;
+  width: 30px;
+}
+
+.icons8-github-250 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(https://cdn.animaapp.com/projects/6375aeefa58c130e510f9d56/releases/6375af7a737d3a28a103146a/img/icons8-github-250-1@2x.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+.icons8-linkedin-250 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(https://cdn.animaapp.com/projects/6375aeefa58c130e510f9d56/releases/6375af7a737d3a28a103146a/img/icons8-linkedin-250-1@2x.png);
+  background-size: 100% 100%;
+  height: 33px;
+  left: 4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 149px;
+  width: 28px;
+}
+.icons8-twitter-250 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(https://cdn.animaapp.com/projects/6375aeefa58c130e510f9d56/releases/6375af7a737d3a28a103146a/img/icons8-twitter-250-1@2x.png);
+  background-size: 100% 100%;
+  height: 30px;
+  left: 2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  width: 30px;
+}
+
