@@ -24,20 +24,25 @@ public class sendEmail {
     final String username = "mysite9564@gmail.com";
     final String password = "pktkfmkqrvtenheb";
     
-    String reddirectURL = "index.html";
+    String reddirectURL = "index.jsp";
     
     String host = "smtp.gmail.com";
-    
-    Properties prop = new Properties();
-    prop.put("mail.smtp.auth", "true");
-    prop.put("mail.smtp.starttls.enable", "true");
-    prop.put("mail.smtp.host", host);
-    prop.put("mail.smtp.port", "587");
-    
-    Session session1 = Session.getInstance(prop, new javax.mail.Authenticator(){
-       protected PasswordAuthentication getPasswordAuthentication(){
-           return new PasswordAuthentication(username, password);
-       }
+//    System.setProperty("https.protocols", "TLSv1.2");
+
+    Properties props = new Properties();
+    props.put("mail.smtp.host", "smtp.gmail.com");
+    props.put("mail.smtp.socketFactory.port", "587");
+    props.put("mail.smtp.starttls.enable", "true"); // STARTTLS isteği göndermek için ekledik.
+    props.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
+    props.put("mail.smtp.starttls.required", "true");
+        props.put("mail.smtp.ssl.protocols", "TLSv1.2");
+    props.put("mail.smtp.auth", "true");
+    props.put("mail.smtp.port", "587");
+
+    Session session1 = Session.getDefaultInstance(props, new Authenticator() {
+        protected PasswordAuthentication getPasswordAuthentication() {
+            return new PasswordAuthentication(username, password);
+        }
     });
     try{
         Message message = new MimeMessage(session1);

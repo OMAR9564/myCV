@@ -21,11 +21,11 @@ myFunction();
 <%
 
         String name = "";
-        name = request.getParameter("name");
+        name = new String(request.getParameter("name").getBytes("ISO-8859-9"), "UTF-8");
         String mail = "";
-        mail = request.getParameter("mail");
+        mail = new String(request.getParameter("mail").getBytes("ISO-8859-9"), "UTF-8");
         String project = "";
-        project = request.getParameter("text");
+        project = new String(request.getParameter("text").getBytes("ISO-8859-9"), "UTF-8");
 
         System.out.println(name + " " + mail);
     try {

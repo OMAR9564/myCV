@@ -7,6 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Personal Portfolio</title>
+    <link rel = "icon" href =
+            "img/detectiveConan.png"
+          type = "image/x-icon">
 
     <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/icons8.css" />
@@ -513,9 +516,9 @@ function resestFun(){
           <div class="contact-right pitchBlock">
               <form class="infoWrap" id="sendContact" method="POST" action="sendMail.jsp">
                 <div class="text" id="text">
-                    <input type="text" class="contactNameInpt" id="contactNameInpt" name="name">
-                    <input type="text" class="contactMailInpt" id="mailInput"name="mail">
-                    <input type="text" class="contactProjectInpt" id="inputText"name="text">
+                    <input type="text" maxlength="50" class="contactNameInpt" id="contactNameInpt" name="name">
+                    <input type="text" maxlength="50" class="contactMailInpt" id="mailInput"name="mail">
+                    <input type="text" maxlength="500" class="contactProjectInpt" id="inputText"name="text">
                     hello,<br>
                     <br>
                     my name is <div class="cFormInput"  id="cFormInput" data-target="contactNameInpt" contenteditable="true"></div> and my e-mail address is <div class="cFormInput" data-target="contactMailInpt" contenteditable="true"></div> and I would like to discuss about <div class="cFormInput" data-target="contactProjectInpt" contenteditable="true"></div>.<br>
