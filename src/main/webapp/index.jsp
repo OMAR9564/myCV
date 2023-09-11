@@ -228,8 +228,12 @@
           <div class="about-col-1">
             <h1 class="sub-title">About Me</h1>
             <p>
-              I am a Software Engineering student, I love to deal with Back-End, I use PHP (Laravel) and JAVA (JSP) in my projects with Back-End, I mostly use MSSQL and MySQL as database. I love to learn something new every day, read books and manage my time properly.
+              I aim to advance my career by specializing in Back-End technologies. As a fourth-year student pursuing a degree in software engineering, my goal is to leverage my academic knowledge and professional skills to gain experience in the software industry. With each experience I acquire, I hope to develop and apply leadership skills in innovative projects, positioning myself for roles where I can continue to grow.
             </p>
+            <p>
+              Building upon the competencies and skills I have acquired, my career path leads me towards specializing in cybersecurity. I aspire to provide secure solutions to organizations and stay updated on the latest developments in information security. This journey is set to unfold in the mid-stages of my career management.
+            </p>
+
             <div class="skills">
               <div class="tag-list">
         <div
@@ -238,23 +242,23 @@
         >
           <div class="inner">
             <div class="tag"><span>#</span> C++</div>
-            <div class="tag"><span>#</span> CSS</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> C</div>
             <div class="tag"><span>#</span> C++</div>
             <div class="tag"><span>#</span> Swfit</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> SQL</div>
             <div class="tag"><span>#</span> C++</div>
             <div class="tag"><span>#</span> CSS</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> C#</div>
             <div class="tag"><span>#</span> C++</div>
             <div class="tag"><span>#</span> Swift</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> SQL</div>
           </div>
@@ -266,21 +270,21 @@
           <div class="inner">
             <div class="tag"><span>#</span> C</div>
             <div class="tag"><span>#</span> PHP</div>
-            <div class="tag"><span>#</span> CSS</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> SQL</div>
             <div class="tag"><span>#</span> C#</div>
             <div class="tag"><span>#</span> PHP</div>
-            <div class="tag"><span>#</span> CSS</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> C++</div>
             <div class="tag"><span>#</span> C</div>
             <div class="tag"><span>#</span> PHP</div>
-            <div class="tag"><span>#</span> CSS</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> SQL</div>
             <div class="tag"><span>#</span> C#</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> CSS</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> C++</div>
@@ -294,7 +298,7 @@
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> C#</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> Laravel</div>
             <div class="tag"><span>#</span> JavaScript</div>
             <div class="tag"><span>#</span> JSP</div>
@@ -318,7 +322,7 @@
           style="--duration: 19999ms; --direction: reverse"
         >
           <div class="inner">
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> PHP</div>
             <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> C#</div>
@@ -345,24 +349,24 @@
           style="--duration: 19979ms; --direction: normal"
         >
           <div class="inner">
-            <div class="tag"><span>#</span> CSS</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
             <div class="tag"><span>#</span> C</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> PHP</div>
             <div class="tag"><span>#</span> C++</div>
-            <div class="tag"><span>#</span> CSS</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
             <div class="tag"><span>#</span> C</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> C++</div>
-            <div class="tag"><span>#</span> CSS</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
             <div class="tag"><span>#</span> C</div>
             <div class="tag"><span>#</span> HTML</div>
             <div class="tag"><span>#</span> Laravel</div>
             <div class="tag"><span>#</span> C++</div>
-            <div class="tag"><span>#</span> CSS</div>
+            <div class="tag"><span>#</span> SpringBoot</div>
             <div class="tag"><span>#</span> C</div>
-            <div class="tag"><span>#</span> HTML</div>
+            <div class="tag"><span>#</span> JSP</div>
             <div class="tag"><span>#</span> SQL</div>
             <div class="tag"><span>#</span> C++</div>
           </div>
@@ -429,25 +433,20 @@
             <i class="fa-solid fa-code"></i>
             <h2>Backend Dev.</h2>
             <p>
-              I coded Back-End projects using PHP, Laravel, Jsp, Java languages and framework and MySql database
-            </p>
+              I have experience developing Back-End projects using Spring Boot, JSP, Java programming languages, and associated frameworks, in addition to working with MySQL databases.            </p>
           </div>
           <div>
             <i class="fa-solid fa-crop"></i>
             <h2>Desktop Dev.</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-              autem accusamus cupiditate officiis debitis expedita totam nostrum
-              eius eos neque aliquid veritatis explicabo fuga ipsam praesentium,
-              quia delectus ex aut.
+              I develop desktop applications using C# and utilize MySQL for database management.
             </p>
           </div>
           <div>
             <i class="fa-solid fa-shield-halved"></i>
             <h2>Cyber Securty Analyst</h2>
             <p>
-              As soon...
-            </p>
+              I will soon start my career as a Cyber Security Analyst. With my interest and skills in cybersecurity, I intend to concentrate on ensuring the digital security of organizations and maintaining data integrity.            </p>
           </div>
         </div>
       </div>
